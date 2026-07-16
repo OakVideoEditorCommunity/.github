@@ -1,4 +1,4 @@
-# Oak Video Editor - A Open Source Video Editor By Quercus
+# Oak Video Editor - A Open Source Video Editor
 
 Olive is an open-source video editor originally created by the [Olive Team](https://github.com/olive-editor). Unfortunately, the original author has not submitted code updates for over 7 months, and no public contact information (email or otherwise) is available to reach them directly.
 
@@ -6,6 +6,6 @@ We need a free software video editor (ensuring users retain the right to control
 
 We are taking action to change this situation. GNU/Linux users shouldn't need to compromise on their right to control their devices simply to access capable video editing software. Together, we can make this change.
 
-Both Oak and Olive are tropical plants, which is why we chose the name. Quercus is the Latin name of the oak, and it is also our team name.
+Both Oak and Olive are tropical plants, which is why we chose the name.
 
 **Join our community effort!**
